@@ -580,7 +580,7 @@ RowId,Incidents
 579,Medium
 580,Very_High
 581,Medium
-582,Medium
+582,Very_High
 583,Very_High
 584,Very_High
 585,Medium
@@ -594,7 +594,7 @@ RowId,Incidents
 593,Medium
 594,Medium
 595,Medium
-596,Medium
+596,Very_High
 597,Very_High
 598,Medium
 599,Very_High
@@ -1161,7 +1161,7 @@ RowId,Incidents
 1160,Very_High
 1161,Medium
 1162,Medium
-1163,Medium
+1163,Very_High
 1164,Medium
 1165,Medium
 1166,Very_High

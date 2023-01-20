@@ -11,5 +11,5 @@
 * Dataset: [aqui](https://github.com/simaocunha71/machine_learning-daa/blob/main/docs/training_data.csv)
 * Notebook: [aqui](https://github.com/simaocunha71/machine_learning-daa/blob/main/tarefa_kaggle.ipynb)
 
-Relatório final: [aqui](https://github.com/simaocunha71/machine_learning-daa/blob/main/relatorio.pdf)
+Relatório final: [aqui](https://github.com/simaocunha71/machine_learning-daa/blob/main/relatorio.pdf) <br>
 Apresentação final: [aqui](https://github.com/simaocunha71/machine_learning-daa/blob/main/DAA-Apresentacao.pptx)
